@@ -10,7 +10,7 @@ This is a memory matching card game. The goal is to match each card's icon with 
 Keep track of progress in the score panel area by viewing the star raiting, how many moves have been made, and how long it takes to finish the game
 
 ## How to Play
-Load this link in your browser https://ccobb73.github.io/Memory-Game-fend/
+Load this link in your browser https://ccobb73.github.io/Memory-Game-Fend/
 
 ## Instructions
 * Click on a card
